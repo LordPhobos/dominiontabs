@@ -1,29 +1,152 @@
 {
-    "Alms": {},
-    "Amulet": {},
-    "Artificer": {},
-    "Ball": {},
-    "Bonfire": {},
-    "Borrow": {},
-    "Bridge Troll": {},
-    "Caravan Guard": {},
-    "Champion": {},
-    "Coin of the Realm": {},
-    "Disciple": {},
-    "Distant Lands": {},
-    "Dungeon": {},
-    "Duplicate": {},
-    "Expedition": {},
-    "Ferry": {},
-    "Fugitive": {},
-    "Gear": {},
-    "Giant": {},
-    "Guide": {},
-    "Haunted Woods": {},
-    "Hero": {},
-    "Hireling": {},
-    "Inheritance": {},
-    "Lost Arts": {},
+    "Alms": {
+        "description": " Una volta a turno: se non hai carte Tesoro in gioco, Ottieni una carta dal costo massimo di 4 <*COIN*>.",
+        "extra": " Puoi comprare questo Evento soltanto una volta per turno. Quando lo fai, se non hai Tesori in gioco, Ottieni una carta che costi al massimo 4 <*COIN*>. La carta Ottenuta viene dalla Riserva.",
+        "name": "Elemosina"
+    },
+    "Amulet": {
+        "description": "Adesso, e all'inizio del tuo prossimo turno, scegli: +1 <*COIN*> oppure Elimina una carta dalla tua mano oppure Ottieni una carta Argento.",
+        "extra": "Scegli qualcosa quando giochi questa carta, e scegli ancora all'inizio del tuo prossimo turno; le scelte possono essere uguali o diverse.",
+        "name": "Amuleto"
+    },
+    "Artificer": {
+        "description": "",
+        "extra": "",
+        "name": "Artigiano",
+        "untranslated" : "description, extra"
+    },
+    "Ball": {
+        "description": "",
+        "extra": "",
+        "name": "Ballo",
+        "untranslated" : "description, extra"
+    },
+    "Bonfire": {
+        "description": "",
+        "extra": "",        
+        "name": "Falò",
+        "untranslated" : "description, extra"    
+    },
+    "Borrow": {
+        "description": "",
+        "extra": "",        
+        "name": "Prestito",
+        "untranslated" : "description, extra"    
+    },
+    "Bridge Troll": {
+        "description": "",
+        "extra": "",        
+        "name": "Troll del Ponte",
+        "untranslated" : "description, extra"    
+    },
+    "Caravan Guard": {
+        "description": "",
+        "extra": "",        
+        "name": "Guardia della Carovana",
+        "untranslated" : "description, extra"      
+    },
+    "Champion": {
+        "description": "",
+        "extra": "",        
+        "name": "Campione",
+        "untranslated" : "description, extra"      
+    },
+    "Coin of the Realm": {
+        "description": "",
+        "extra": "",        
+        "name": "Moneta del Regno",
+        "untranslated" : "description, extra"      
+    },
+    "Disciple": {
+        "description": "",
+        "extra": "",        
+        "name": "Discepolo",
+        "untranslated" : "description, extra"      
+    },
+    "Distant Lands": {
+        "description": "",
+        "extra": "",        
+        "name": "Terre Lontane",
+        "untranslated" : "description, extra"      
+    },
+    "Dungeon": {
+        "description": "",
+        "extra": "",        
+        "name": "Dungeon",
+        "untranslated" : "description, extra"      
+    },
+    "Duplicate": {
+        "description": "",
+        "extra": "",        
+        "name": "Replica",
+        "untranslated" : "description, extra"      
+    },
+    "Expedition": : {
+        "description": "",
+        "extra": "",        
+        "name": "Spedizione",
+        "untranslated" : "description, extra"      
+    },
+    "Ferry": : {
+        "description": "",
+        "extra": "",        
+        "name": "Traghetto",
+        "untranslated" : "description, extra"      
+    },
+    "Fugitive": {
+        "description": "",
+        "extra": "",        
+        "name": "Fuggitivo",
+        "untranslated" : "description, extra"      
+    },
+    "Gear": {
+        "description": "",
+        "extra": "",        
+        "name": "Attrezzi",
+        "untranslated" : "description, extra"      
+    },
+    "Giant": {
+        "description": "",
+        "extra": "",        
+        "name": "Gigante",
+        "untranslated" : "description, extra"      
+    },
+    "Guide": {
+        "description": "",
+        "extra": "",        
+        "name": "Guida",
+        "untranslated" : "description, extra"      
+    },
+    "Haunted Woods": {
+        "description": "",
+        "extra": "",        
+        "name": "Foresta Infestata",
+        "untranslated" : "description, extra"      
+    },
+    "Hero": {
+        "description": "",
+        "extra": "",        
+        "name": "Eroe",
+        "untranslated" : "description, extra"      
+    },
+    "Hireling": {
+        "description": "",
+        "extra": "",        
+        "name": "Bravo",
+        "untranslated" : "description, extra"      
+    },
+    "Inheritance": {
+        "description": "",
+        "extra": "",        
+        "name": "Eredità",
+        "untranslated" : "description, extra"      
+    },
+    "Lost Arts": {
+        "description": "",
+        "extra": "",        
+        "name": "Arti Perdute",
+        "untranslated" : "description, extra"      
+    },
     "Lost City": {},
     "Magpie": {},
     "Messenger": {},
