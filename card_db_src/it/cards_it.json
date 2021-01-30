@@ -81,13 +81,13 @@
         "name": "Replica",
         "untranslated" : "description, extra"      
     },
-    "Expedition": : {
+    "Expedition": {
         "description": "",
         "extra": "",        
         "name": "Spedizione",
         "untranslated" : "description, extra"      
     },
-    "Ferry": : {
+    "Ferry": {
         "description": "",
         "extra": "",        
         "name": "Traghetto",
